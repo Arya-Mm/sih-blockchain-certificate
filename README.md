@@ -1,7 +1,7 @@
 ```markdown
 # 🎓 Jharkhand Blockchain Certificate System
 
-**SIH 2024 Problem Statement 29** - Secure, tamper-proof certificate verification system
+**SIH 2025 Problem Statement 29** - Secure, tamper-proof certificate verification system
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![React](https://img.shields.io/badge/react-18.2.0-blue.svg)
